@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif Sena Harman</h1>
 <h3 align="center">A computer engineering student from Türkiye</h3>
 
-- 🔭 I’m currently working on [banKan](https://github.com/arafkubraa/banKan.git)
-
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **HTML**
 
 - 📫 How to reach me **elfhrmn76@gmail.com**
 
