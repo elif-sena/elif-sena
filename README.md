@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif Sena Harman</h1>
 <h3 align="center">A computer engineering student from Türkiye</h3>
 
-- 🌱 I’m currently learning **HTML** and **CSS**
+- 🌱 I’m currently learning **HTML**, **CSS** and **JavaScript**
 
 - 📫 How to reach me **elfhrmn76@gmail.com**
 
